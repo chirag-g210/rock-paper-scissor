@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align:center;
+    color:aliceblue;
+    background-color: rgba(195, 29, 120, 0.5);
+
+}
+.choices{
+    
+}
+
+.choice{
+    height: 150px;
+    display: flex;
+    
+}
+
+#rock{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+}
