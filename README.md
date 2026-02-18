@@ -20,8 +20,10 @@ This project is created for practice and learning basic frontend development and
 
 
 # Project structure
-|── index.html
-|── style.css
-|── paper.png
-|── rock_img.png
-|── scissor_img.png
+<pre>
+  |── index.html
+  |── style.css
+  |── paper.png
+  |── rock_img.png
+  |── scissor_img.png
+</pre>
