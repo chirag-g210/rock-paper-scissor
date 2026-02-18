@@ -16,4 +16,12 @@ This project is created for practice and learning basic frontend development and
 # Technologies Used
 - **HTML** – Structure of the game  
 - **CSS** – Styling and layout  
-- **JavaScript** – Game logic and interactions  
+- **JavaScript** – Game logic and interactions
+
+
+# Project structure
+|── index.html
+|── style.css
+|── paper.png
+|── rock_img.png
+|── scissor_img.png
