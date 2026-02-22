@@ -28,3 +28,10 @@ This project is created for practice and learning basic frontend development and
   |── scissor_img.png
   |── script.js
 </pre>
+
+## 👤 Author
+**Chirag Gupta**
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
