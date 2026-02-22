@@ -26,4 +26,5 @@ This project is created for practice and learning basic frontend development and
   |── paper.png
   |── rock_img.png
   |── scissor_img.png
+  |── script.js
 </pre>
