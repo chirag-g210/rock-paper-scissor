@@ -22,7 +22,7 @@ This project is created for practice and learning basic frontend development and
 ---
 
 # Project structure
-<pre>
+```
   rock-paper-scissor/
   |── index.html
   |── style.css
@@ -30,7 +30,7 @@ This project is created for practice and learning basic frontend development and
   |── rock_img.png
   |── scissor_img.png
   |── script.js
-</pre>
+```
 
 ---
 
